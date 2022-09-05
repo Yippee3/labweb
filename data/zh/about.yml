@@ -1,0 +1,10 @@
+############################# About ###################################
+about:
+  enable : true
+  title : 关于我们
+  about_item :
+  - icon : ti-world # themify icon pack : https://themify.me/themify-icons
+    description1 : 阿尔兹海默
+    description2 : PTSD
+
+    

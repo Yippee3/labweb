@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/clouds.jpg"
+  bg_image_webp : "images/backgrounds/clouds.webp"
+  title : "多组学/电生理/行为学"
+  content : "我们采用创新方法来研究阿尔兹海默。"
+  button:
+    enable : true
+    label : "联系我们"
+    link : "#contact"

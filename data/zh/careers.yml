@@ -1,0 +1,16 @@
+#################################### careers ###############################
+careers:
+  enable : true
+  title : 学习机会
+  careers_item :
+    # careers item loop
+    - name : 硕士
+      # link : "jobs/senior_distributed_systems_engineer.pdf"
+
+    # careers item loop
+    - name : 博士
+      # link : "jobs/distributed_systems_engineer.pdf"
+
+    # careers item loop
+    - name : 联合培养
+      # link : "jobs/marketing_specialist.pdf"

@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/NASA_GulfofMex.webp"
+  bg_image : "images/backgrounds/NASA_GulfofMex.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Zhulq Labs"
+  content : "在阿尔兹海默深耕30年"
+  button:
+    enable : true
+    label : "Explorer"
+    link : "#blog"
